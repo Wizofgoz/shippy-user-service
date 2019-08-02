@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"github.com/micro/go-micro"
-	_ "github.com/micro/go-plugins/registry/mdns"
 	pb "github.com/wizofgoz/shippy-user-service/proto/user"
 	"log"
 )
